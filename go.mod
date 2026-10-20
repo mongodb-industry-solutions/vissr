@@ -28,7 +28,7 @@ require (
 require (
 	github.com/apache/thrift v0.15.0 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
-	github.com/klauspost/compress v1.16.7 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/onsi/gomega v1.32.0 // indirect
 	github.com/qri-io/jsonpointer v0.1.1 // indirect
